@@ -4,7 +4,7 @@
  *
  *
  */
-
+<?php
 function sqInRect($lng, $wdth) {
     
 if($lng == $wdth){
