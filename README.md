@@ -1,3 +1,2 @@
 # Codewars
-
-<h1>Code Wars</h1>
+https://www.codewars.com
